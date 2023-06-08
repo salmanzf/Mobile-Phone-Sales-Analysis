@@ -7,4 +7,4 @@ Criteria    : [FP20 May 2023 Analytics Challenge](https://github.com/salmanzf/Mo
  
 Tools       : Microsoft Power BI, Figma
  
-Goals       : To determine the preference of mobile brand in each country and which mobile brands perform the best
+Goals       : To determine the preference of mobile brand in each country in each year and which mobile brands perform the best overall
